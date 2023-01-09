@@ -138,7 +138,9 @@ h3{
 .carousel-image{
     padding: 7% 15%;
 }
-
+.mash{
+    padding-top: 10px;
+}
 
 /* Pricing Section */
 #pricing{
